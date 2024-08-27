@@ -7,16 +7,32 @@
   margin-left: 5%;
   display: flex;
   flex-direction: row;
-  background-color: antiquewhite;  
+  overflow: hidden;
+  /* background-color: antiquewhite;   */
 }
 
 .s2 .title{
   width: 50%;
   height: fit-content;
-  background-color: aqua;
+  /* background-color: aqua; */
   
 }
 .s2 .obj{
-  background-color: blue;
+  /* background-color: blue; */
   width: 50%;
+}
+
+h1{
+  font-family: "Metal Mania", system-ui;
+  font-weight: 100;
+  font-size: 10rem;
+  color:silver;
+}
+
+h5{
+  font-family: "Metal Mania", system-ui;
+  font-weight: 100;
+  font-size: 3rem;
+  color:silver;
+
 }
