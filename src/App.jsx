@@ -13,10 +13,10 @@ function App() {
       <Stars/>
       <div className='s2' >
         <div className='title'>
-          <p>ol</p>
+          <h1 className='metal-mania-regular' >SPASE</h1>
         </div>
-        <div>
-        <Earth/>
+        <div className='obj'>
+          <Earth/>
 
         </div>
         
