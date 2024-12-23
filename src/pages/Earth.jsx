@@ -5,6 +5,7 @@ import CanvasLoader from "./Loader";
 
 
 
+
 const Earth = () => {
     const { scene } = useGLTF("./planet/scene.gltf"); //import model from public
   
